@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "Priya",
+      "address": "Davangere karnataka India",
+      "city": "Ambala",
+      "state": "Haryana",
+      "zipcode": "53455",
+      "phonenumber": "+91-9964560891",
+      "id": 1,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    },
+    {
+      "name": "Kynat",
+      "address": "Dvg",
+      "city": "Mysore",
+      "state": "Karnataka",
+      "zipcode": "57700",
+      "phonenumber": "+91-9964560890",
+      "id": 2,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    },
+    {
+      "name": "Megha",
+      "address": "dvg",
+      "city": "dvg",
+      "state": "Himachal Pradesh",
+      "zipcode": "45674",
+      "phonenumber": "+91-9876543210",
+      "id": 3,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    },
+    {
+      "name": "Afreen",
+      "address": "dvg",
+      "city": "belgum",
+      "state": "Karnataka",
+      "zipcode": "57704",
+      "phonenumber": "+91-9964560890",
+      "id": 4,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    }
+  ]
+}
